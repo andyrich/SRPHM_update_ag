@@ -130,7 +130,12 @@ prms_ic_prms.out
 print_debug
 1
 1
+-2
+####
+parameter_check_flag
 1
+1
+0
 ####
 aniOutON_OFF
 1
