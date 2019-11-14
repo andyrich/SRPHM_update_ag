@@ -2,7 +2,7 @@ head	print	format	3
 HEAD	SAVE	UNIT	138															
 head	save	format	(157f12.1)	label														
 COMPACT	BUDGET 	 																
-PERIOD	1	STEP	15															
+PERIOD	1	STEP	1															
 	SAVE	BUDGET																
 PERIOD	1	STEP	31															
 	PRINT	BUDGET																
