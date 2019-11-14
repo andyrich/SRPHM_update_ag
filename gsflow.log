@@ -115,11 +115,53 @@ Simulation time period: 1974/10/01 - 2015/12/31
 ====================================================================
 
 Date: 1974/10/01; Stress:  1; Step:     1; Simulation step:    1
-                  MF iterations:      101; SZ iterations:    101
+                  MF iterations:      397; SZ iterations:    397
 
 Date: 1974/10/02; Stress:  1; Step:     2; Simulation step:    2
-                  MF iterations:       13; SZ iterations:     13
+                  MF iterations:      462; SZ iterations:    462
+
+***TIME STEP FAILED TO CONVERGE - Date: 1974/10/03 number:     1
 
 Date: 1974/10/03; Stress:  1; Step:     3; Simulation step:    3
-                  MF iterations:       10; SZ iterations:     10
+                  MF iterations:      500; SZ iterations:    500
+
+***TIME STEP FAILED TO CONVERGE - Date: 1974/10/04 number:     2
+
+Date: 1974/10/04; Stress:  1; Step:     4; Simulation step:    4
+                  MF iterations:      500; SZ iterations:    500
+
+***TIME STEP FAILED TO CONVERGE - Date: 1974/10/05 number:     3
+
+Date: 1974/10/05; Stress:  1; Step:     5; Simulation step:    5
+                  MF iterations:      500; SZ iterations:    500
+
+***TIME STEP FAILED TO CONVERGE - Date: 1974/10/06 number:     4
+
+Date: 1974/10/06; Stress:  1; Step:     6; Simulation step:    6
+                  MF iterations:      500; SZ iterations:    500
+
+***TIME STEP FAILED TO CONVERGE - Date: 1974/10/07 number:     5
+
+Date: 1974/10/07; Stress:  1; Step:     7; Simulation step:    7
+                  MF iterations:      500; SZ iterations:    500
+
+***TIME STEP FAILED TO CONVERGE - Date: 1974/10/08 number:     6
+
+Date: 1974/10/08; Stress:  1; Step:     8; Simulation step:    8
+                  MF iterations:      500; SZ iterations:    500
+
+***TIME STEP FAILED TO CONVERGE - Date: 1974/10/09 number:     7
+
+Date: 1974/10/09; Stress:  1; Step:     9; Simulation step:    9
+                  MF iterations:      500; SZ iterations:    500
+
+***TIME STEP FAILED TO CONVERGE - Date: 1974/10/10 number:     8
+
+Date: 1974/10/10; Stress:  1; Step:    10; Simulation step:   10
+                  MF iterations:      500; SZ iterations:    500
+
+***TIME STEP FAILED TO CONVERGE - Date: 1974/10/11 number:     9
+
+Date: 1974/10/11; Stress:  1; Step:    11; Simulation step:   11
+                  MF iterations:      500; SZ iterations:    500
 
