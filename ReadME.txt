@@ -8,3 +8,9 @@ Dynamic parameters added.
 Well file removed because of files size for now.
 
 Model is having convergence issues. And ag package pumping doesn't appear to be reasonable.
+
+Regarding PRMS properties in current repository:
+cov_type (cover type): none are bare soil
+soil_moist_max: all are greater than 1 inch
+
+pref_flow_den: all equal zero
