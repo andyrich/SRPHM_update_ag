@@ -7,7 +7,6 @@ Dynamic parameters added.
 
 Well file removed because of files size for now.
 
-Model is having convergence issues. And ag package pumping doesn't appear to be reasonable.
 
 Regarding PRMS properties in current repository:
 cov_type (cover type): none are bare soil
