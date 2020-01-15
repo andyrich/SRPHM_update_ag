@@ -18,9 +18,9 @@ start_time
 end_time
 6
 1
-2015
-12
-31
+1976
+1
+1
 0
 0
 0
@@ -38,7 +38,7 @@ prms_v3_param.params
 data_file
 1
 4
-Climate_stresses.dat
+./input/Climate_stresses.dat
 ####
 precip_module
 1
@@ -53,12 +53,12 @@ temp_1sta
 gsflow_output_file
 1
 4
-SRP_gsflow.out
+./output/SRP_gsflow.out
 ####
 csv_output_file
 1
 4
-gsflow.csv
+./output/gsflow.csv
 ####
 et_module
 1
@@ -73,7 +73,7 @@ init_vars_from_file
 model_output_file
 1
 4
-SRP2-56e_gsf080713.out2
+./output/SRP2-56e_gsf080713.out2
 ####
 nstatVars
 1
@@ -130,7 +130,7 @@ prms_ic_prms.out
 print_debug
 1
 1
-1
+-1
 ####
 parameter_check_flag
 1
@@ -164,7 +164,7 @@ soil_rechr
 ani_output_file
 1
 4
-SRPW3_56e_GSFL_ani1.out
+./output/SRPW3_56e_GSFL_ani1.out
 ####
 external_transferON_OFF
 1
@@ -184,4 +184,4 @@ dyn_potet_flag
 potetcoef_dynamic
 1
 4
-srphm_dyn_jh.dyn
+./dynamic_input/srphm_dyn_jh.dyn
