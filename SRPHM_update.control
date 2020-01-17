@@ -18,7 +18,7 @@ start_time
 end_time
 6
 1
-1979
+1980
 1
 1
 0
@@ -130,7 +130,7 @@ prms_ic_prms.out
 print_debug
 1
 1
-2
+-1
 ####
 parameter_check_flag
 1
@@ -185,6 +185,16 @@ potetcoef_dynamic
 1
 4
 srphm_dyn_jh.dyn
+####
+dyn_imperv_flag
+1
+1
+1
+####
+imperv_frac_dynamic
+1
+4
+impervious.dyn
 ####
 dyn_soil_flag
 1
