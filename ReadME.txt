@@ -13,8 +13,9 @@ Dynamic parameters added.
 Well file removed because of files size for now.
 
 Switched from GSFLOW 4 to GSFLOW 5
-Decreased soil_moist_max by 0.25x
-However, because dynamic parameter capability in GSFLOW currently has bug, soil_moist_max is set to 0.25x for entire simulation if there is EVER a vineyard in that location. All other locations remain default value.
+increased soil_moist_max by 2x (for active crop HRU's)
+increased sat_threshold by 2x (for active crop HRU's)
+However, because dynamic parameter capability in GSFLOW currently has bug, soil_moist_max is set to 2x for entire simulation if there is EVER a vineyard in that location. All other locations remain default value.
 Added dynamic parameter for imperviousness. Data from NLCD. Dates of change are 2001, 2005, 2011, 2016. Earlier dates (1974, 1986) currently being processed by SCWA. SRPHM 1.0 used a constant 2008 dataset.
 Used crop coefficients for each crop to create dynamic parameter input for all crops for all stress periods.
 Changed ‘srain_intcp’ to zero for vineyards. Srain_intcp controls amount of intercepted precipitation [irrigation] to account for drip irrigation.
