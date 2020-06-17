@@ -145,10 +145,10 @@ aniOutON_OFF
 naniOutVars
 1
 1
-18
+26
 ####
 aniOutVar_names
-18
+26
 4
 hru_actet
 intcp_stor
@@ -168,6 +168,14 @@ hru_sroffi
 imperv_stor
 infil
 hru_rain
+dunnian_flow
+pref_flow
+slow_flow
+ssres_flow
+pref_flow_infil
+cap_infil_tot
+swale_actet
+ssres_stor
 ####
 ani_output_file
 1
