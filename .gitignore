@@ -3,6 +3,7 @@
 *.cb2
 *.fhd
 *.lst
+/nsub/*.csv
 gsflow.csv
 *.out
 *.out2
